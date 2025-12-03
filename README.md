@@ -70,18 +70,6 @@
   </a>
 </p>
 
-<!-- Support Me Section -->
-<div>
-  <h2>Support Me
-    <img src="https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif" height="40px" alt="Support Gif">
-  </h2>
-  <p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"></p>
-  <p>
-    <a href="https://raw.githubusercontent.com/NaimaAfsanaNisha/NaimaAfsanaNisha/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" target="_blank">
-      <img src="https://raw.githubusercontent.com/NaimaAfsanaNisha/NaimaAfsanaNisha/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" alt="Waves">
-    </a>
-  </p>
-</div>
 
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaimaAfsanaNisha&show_icons=true&locale=en&layout=compact" alt="NaimaAfsanaNisha" /></p>
