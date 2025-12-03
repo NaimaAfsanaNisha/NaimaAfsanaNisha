@@ -71,7 +71,3 @@
 </p>
 
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaimaAfsanaNisha&show_icons=true&locale=en&layout=compact" alt="NaimaAfsanaNisha" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NaimaAfsanaNisha&show_icons=true&locale=en" alt="NaimaAfsanaNisha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaimaAfsanaNisha" alt="NaimaAfsanaNisha"></p>
